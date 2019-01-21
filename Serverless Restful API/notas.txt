@@ -1,0 +1,39 @@
+Revisar varias cosas porque el video esta en node 8 y tamos con node 10
+
+Iniciar App
+
+1) Firebase init
+2) Seleccionar Functions y Hosting.
+
+
+Mascotas
+id  PK                      Crear Mascota
+nombre                      Listar Mascota
+tipo                        Dar alta a Mascota
+comentario
+
+node 8: 
+async - await - spead operators
+
+
+video 22, sección 4
+firebase functions:config:set mongo.username=SandroSD
+firebase functions:config:set mongo.password=s4ndr0i99i
+
+const { username, password } = functions.config()
+const mongouri = 
+    'mongodb://${username}:${password}@ds129153.mlab.com:29153/rest-api'
+
+cambiar en .eslintrc.json
+"parserOptions": {
+    // Required for certain syntax usages
+    "ecmaVersion": 6 //a versión 8
+  },
+
+mongoose.connect(mongouri, mongooseConfig)
+firebase deploy
+
+Cuando deployamos vamos al navegador en la base de firebase, tamos functions
+Copiamos la url debajo de Request
+url/pets
+si sale error, vamos a la pestaña de Logs
