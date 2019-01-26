@@ -1,0 +1,10 @@
+https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0
+
+Canal: EQuimper
+
+Comienzo: https://www.youtube.com/watch?v=UL66bwInJHY&list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV
+
+Seguir desde: 
+
+Min: 21:00
+Link: https://www.youtube.com/watch?v=i5yb_HRWbeg&list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV&index=3
