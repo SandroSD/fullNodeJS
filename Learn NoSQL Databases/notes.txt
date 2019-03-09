@@ -1,0 +1,23 @@
+https://www.udemy.com/learn-nosql-databases-complete-mongodb-bootcamp-2019/learn/v4/content
+
+Mongo DB Types
+
+- Double
+- String
+- Object
+- Array
+- Binary Data
+- Object ID
+- Boolean
+- Date
+- Null
+- Regex
+- Java Script
+- Symbol
+- Java Script (with scope)
+- 32-bit Integer
+- Timestamp
+- 64-bit Integer
+
+
+Unidad 3 Clase 7
